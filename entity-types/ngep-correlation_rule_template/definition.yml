@@ -1,5 +1,5 @@
 domain: NGEP
-type: FEDERATED_LOG_PARTITION
+type: CORRELATION_RULE_TEMPLATE
 
 configuration:
   entityExpirationTime: MANUAL
@@ -7,4 +7,4 @@ configuration:
 
 ownership:
   primaryOwner:
-    teamName: "Logging"
+    teamName: "Issues and Incidents Infrastructure"
